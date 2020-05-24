@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"_",
+				"$_GET〔variable〕"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"pr",
+				"print\t(index.php)"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tabc"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"has",
+				"hasClass\tabc"
+			],
+			[
+				"chek",
+				"checkbox\t(template.php)"
+			],
+			[
+				"sub",
+				"submit〔function〕"
+			],
+			[
+				"check",
+				"checked=\"checked\t(template.php)"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"margo",
+				"margin-bottom\tproperty"
+			],
+			[
+				"rasp",
+				"raspisanie\tabc"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tabc"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"array_",
+				"array_merge\tabc"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"u",
+				"upload"
+			],
+			[
+				"l",
+				"location〔variable〕"
+			],
+			[
+				"con",
+				"continue\tabc"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"rel",
+				"relative\tposition"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"preg",
+				"preg_replace〔function〕"
+			],
+			[
+				"bor",
+				"border-box\tbox-sizing"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"is_",
+				"is_array〔function〕"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"su",
+				"submit〔function〕"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"line",
+				"line-height\tproperty"
+			],
+			[
+				"sc",
+				"scroll\t(custom.js)"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"f",
+				"fixed"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/AppData/Local/Temp/scp09381/home/bitrix/ext_www/velvex.shop/bitrix/templates/velvex/components/bitrix/menu/velvex_hor_mlt_v2/template.php",
+		"/C/Users/User/AppData/Local/Temp/scp11585/home/bitrix/ext_www/velvex.shop/bitrix/templates/velvex/components/bitrix/menu/velvex_hor_mlt/template.php",
+		"/C/Users/User/AppData/Local/Temp/scp29750/home/bitrix/www/logs_for_price_list/21052020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp28960/home/bitrix/www/bitrix/templates/mobapp/template_styles.css",
+		"/C/Users/User/AppData/Local/Temp/scp09993/home/bitrix/www/order_export.php",
+		"/C/Users/User/AppData/Local/Temp/scp59820/home/bitrix/www/pay_result/index.php",
+		"/D/AKA/Лит/Python/my_practics/myclass.py",
+		"/D/AKA/Лит/Python/my_practics/myPro.py",
+		"/D/AKA/Лит/Python/my_practics/pyowm.py",
+		"/D/AKA/Лит/Python/my_practics/pickling.py",
+		"/D/AKA/Лит/Python/my_practics/inherit.py",
+		"/D/AKA/Лит/Python/my_practics/inherit_abc.py",
+		"/C/Users/User/AppData/Local/Temp/scp03104/home/bitrix/www/order_delivery/ajax/get_user_basket.php",
+		"/C/Users/User/AppData/Local/Temp/scp43452/home/bitrix/www/order_delivery/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp58430/home/bitrix/www/order_delivery/set_new_order.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/User/AppData/Local/Temp/scp23075/home/bitrix/www/bitrix/components/aka/sale.order.payment/component.php",
+		"/C/Users/User/AppData/Local/Temp/scp39216/home/bitrix/www/order_delivery/set_new_order.php",
+		"/C/Users/User/AppData/Local/Temp/scp10701/home/bitrix/www/order_delivery/css/style.css",
+		"/C/Users/User/AppData/Local/Temp/scp05543/home/bitrix/www/order_delivery/ajax/get_user_basket.php",
+		"/C/Users/User/AppData/Local/Temp/scp05084/home/bitrix/www/order_delivery/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp22336/home/bitrix/www/test-basket/order/payment.php",
+		"/C/Users/User/AppData/Local/Temp/scp31581/home/bitrix/www/bitrix/components/aka/akaoneclickbuy/script.php",
+		"/C/Users/User/AppData/Local/Temp/scp31013/home/bitrix/www/bitrix/components/aka/akaoneclickbuy/component.php",
+		"/C/users/user/appdata/local/temp/sublime-sftp-browse-1589803424/hosts/home/bitrix/www/bitrix/components/aka/akaoneclickbuy/script.php",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/hosts",
+		"/C/Users/User/AppData/Local/Temp/scp10794/home/bitrix/www/bitrix/templates/aspro_next_apt/components/bitrix/sale.basket.basket/aka_template2/basket_items.php",
+		"/C/Users/User/AppData/Local/Temp/scp24515/home/bitrix/www/bitrix/templates/aspro_next_apt/components/bitrix/sale.basket.basket/aka_template2/basket_items.php",
+		"/D/Kamola/index.html",
+		"/C/Users/User/AppData/Local/Temp/scp29492/home/bitrix/www/bitrix/.settings.php",
+		"/C/Users/User/AppData/Local/Temp/scp01281/home/bitrix/www/order_delivery/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp29188/home/bitrix/www/bitrix/php_interface/dbconn.php",
+		"/C/Users/User/AppData/Local/Temp/scp04424/home/bitrix/www/order_delivery/ajax/get_user_basket.php",
+		"/C/Users/User/AppData/Local/Temp/scp20416/home/bitrix/www/order_delivery/ajax/get_user_basket.php.back",
+		"/C/Users/User/AppData/Local/Temp/scp04086/home/bitrix/www/order_delivery/ajax/aka_get_cr_stores_xml.php",
+		"/C/Users/User/AppData/Local/Temp/scp03304/home/bitrix/www/order_delivery/css/style.css",
+		"/C/Users/User/AppData/Local/Temp/scp11400/home/bitrix/ext_www/krovatka.lc/bitrix/php_interface/init.php",
+		"/D/AKA/SITES/convert.sh",
+		"/C/Users/User/AppData/Local/Temp/scp03356/home/bitrix/www/order_delivery/index.php.Back",
+		"/C/Users/User/AppData/Local/Temp/scp00535/home/bitrix/ext_www/h-mediashkola.lc/index.php",
+		"/D/AKA/Лит/Python/my_practics/test.py",
+		"/C/Users/User/AppData/Local/Temp/scp00706/home/bitrix/ext_www/h-velvexru.lc/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp28941/home/bitrix/www/bitrix/templates/mobapp/scripts/search.js",
+		"/C/Users/User/AppData/Local/Temp/scp17172/home/bitrix/www/order_delivery/css/style.css",
+		"/C/Users/User/AppData/Local/Temp/scp44025/home/bitrix/www/order_delivery/ajax/get_user_basket.php",
+		"/C/Users/User/AppData/Local/Temp/scp06069/home/bitrix/www/order_delivery/ajax/aka_get_cr_stores_xml.php",
+		"/C/Users/User/AppData/Local/Temp/scp44974/home/bitrix/www/order_delivery/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp20898/home/bitrix/www/ajax/aka_cart_clear.php",
+		"/C/Users/User/AppData/Local/Temp/scp35910/home/bitrix/www/ajax/aka_cart_update.php",
+		"/C/Users/User/AppData/Local/Temp/scp16471/home/bitrix/www/bitrix/templates/aspro_next_apt/components/aka/search.page/shop1/template.php",
+		"/C/Users/User/AppData/Local/Temp/scp56653/home/bitrix/www/test.php",
+		"/C/Users/User/AppData/Local/Temp/scp15113/home/bitrix/www/bitrix/components/aka/search.page/component.php",
+		"/C/Users/User/AppData/Local/Temp/scp09253/home/bitrix/www/bitrix/components/aka/search.page/component.php",
+		"/C/Users/User/AppData/Local/Temp/scp25468/home/bitrix/www/order_delivery/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp24558/home/bitrix/www/bitrix/templates/aspro_next_apt/components/aka/akaoneclickbuy/aka_shop/template.php",
+		"/C/Users/User/AppData/Local/Temp/scp22127/home/bitrix/www/order_delivery/ajax/get_user_basket.php",
+		"/C/Users/User/AppData/Local/Temp/scp24335/home/bitrix/www/bitrix/templates/aspro_next_apt/components/aka/akaoneclickbuy/aka_shop/component_epilog.php",
+		"/C/Users/User/AppData/Local/Temp/scp24368/home/bitrix/www/bitrix/templates/aspro_next_apt/components/bitrix/sale.basket.basket/aka_template2/script.js",
+		"/C/Users/User/AppData/Local/Temp/scp03202/home/bitrix/www/test.php",
+		"/C/Users/User/AppData/Local/Temp/scp22549/home/bitrix/www/order_delivery/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp19186/home/bitrix/www/order_delivery/style.css",
+		"/D/AKA/Лит/Python/1/byte-of-python-master/programs/backup_ver1.py",
+		"/D/AKA/Лит/Python/my_practics/shoplist.data",
+		"/D/AKA/Лит/Python/my_practics/using_file2.py",
+		"/D/AKA/Лит/Python/my_practics/using_file.py",
+		"/D/AKA/Лит/Python/my_practics/poem.txt",
+		"/D/AKA/Лит/Python/my_practics/user_input.py",
+		"/D/AKA/Лит/Python/my_practics/oop_init.py",
+		"/D/AKA/Лит/Python/my_practics/objvar.py",
+		"/D/AKA/Лит/Python/Видео/Программирование на Python для начинающих/files/Course/Base/Lesson_9.py",
+		"/C/Users/User/AppData/Local/Temp/scp12754/home/bitrix/www/bitrix/templates/mobapp/footer.php",
+		"/C/Users/User/AppData/Local/Temp/scp57754/home/bitrix/www/bitrix/templates/mobapp/footer.php",
+		"/D/AKA/Лит/Python/my_practics/simplestclass.py",
+		"/D/AKA/Лит/Python/my_practics/hello.py",
+		"/C/Users/User/AppData/Local/Temp/scp27678/home/kamil/python_projects/backup_ver4.py",
+		"/C/Users/User/AppData/Local/Temp/scp39499/home/kamil/python_projects/Backup/20200509/203839_111.zip",
+		"/C/Users/User/AppData/Local/Temp/scp34665/home/kamil/python_projects/str_methods.py",
+		"/C/Users/User/AppData/Local/Temp/scp30338/home/kamil/python_projects/reference.py",
+		"/C/Users/User/AppData/Local/Temp/scp53229/home/kamil/python_projects/seq.py",
+		"/C/Users/User/AppData/Local/Temp/scp14119/home/kamil/python_projects/using_dict.py",
+		"/C/Users/User/AppData/Local/Temp/scp56808/home/kamil/python_projects/using_tuple.py",
+		"/C/Users/User/AppData/Local/Temp/scp48938/home/kamil/python_projects/using_list.py",
+		"/C/Users/User/AppData/Local/Temp/scp26840/home/kamil/python_projects/mymodule_demo.py",
+		"/C/Users/User/AppData/Local/Temp/scp25530/home/kamil/python_projects/mymodule.py",
+		"/C/Users/User/AppData/Local/Temp/scp21955/home/kamil/python_projects/using_name.py",
+		"/C/Users/User/AppData/Local/Temp/scp25757/home/kamil/python_projects/__pycache__/using_name.cpython-37.pyc",
+		"/C/Users/User/AppData/Local/Temp/scp04173/home/kamil/python_projects/using_sys.py",
+		"/C/Users/User/AppData/Local/Temp/scp59563/home/kamil/python_projects/continue.py",
+		"/C/Users/User/AppData/Local/Temp/scp54901/home/kamil/python_projects/break.py",
+		"/C/Users/User/AppData/Local/Temp/scp42268/home/kamil/python_projects/for.py",
+		"/C/Users/User/AppData/Local/Temp/scp01082/home/kamil/python_projects/if.py",
+		"/C/Users/User/AppData/Local/Temp/scp37065/home/kamil/python_projects/while.py",
+		"/C/Users/User/AppData/Local/Temp/scp50875/home/kamil/python_projects/expression.py",
+		"/D/zametki_laravel.txt",
+		"/C/Users/User/AppData/Local/Temp/scp45741/home/kamil/python_projects/str_format.py",
+		"/C/Users/User/AppData/Local/Temp/scp40452/home/kamil/python_projects/var.py",
+		"/C/Users/User/AppData/Local/Temp/scp28705/home/kamil/python_projects/helloworld.py",
+		"/D/zametki.txt",
+		"/C/Users/User/AppData/Local/Temp/scp57383/home/bitrix/www/test.php",
+		"/C/Users/User/AppData/Local/Temp/scp59963/home/bitrix/ext_www/krovatka.lc/bitrix/templates/aspro-allcorp2/components/bitrix/news/catalog/detail.php",
+		"/C/Users/User/AppData/Local/Temp/scp01309/home/bitrix/ext_www/krovatka.lc/bitrix/templates/aspro-allcorp2/components/bitrix/news.detail/catalog3/template.php",
+		"/C/Users/User/AppData/Local/Temp/scp02996/home/bitrix/ext_www/krovatka.lc/bitrix/templates/aspro-allcorp2/components/bitrix/news.detail/catalog3/result_modifier.php",
+		"/C/Users/User/AppData/Local/Temp/scp01893/home/bitrix/ext_www/krovatka.lc/bitrix/templates/aspro-allcorp2/components/bitrix/news.detail/catalog3/component_epilog.php",
+		"/C/Users/User/AppData/Local/Temp/scp49653/home/bitrix/ext_www/krovatka.lc/cart/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp49892/home/bitrix/ext_www/krovatka.lc/cart/order/index.php",
+		"/C/Users/User/AppData/Local/Temp/scp52709/home/bitrix/ext_www/krovatka.lc/bitrix/components/aspro/basket.allcorp2/templates/order/template.php",
+		"/C/Users/User/AppData/Local/Temp/scp53178/home/bitrix/ext_www/krovatka.lc/bitrix/components/aspro/basket.allcorp2/templates/order/confirm.php",
+		"/C/Users/User/AppData/Local/Temp/scp54015/home/bitrix/ext_www/krovatka.lc/bitrix/components/aspro/basket.allcorp2/templates/order/form.php",
+		"/C/Users/User/AppData/Local/Temp/scp56227/home/bitrix/ext_www/krovatka.lc/bitrix/components/aspro/basket.allcorp2/component.php",
+		"/C/Users/User/AppData/Local/Temp/scp51521/home/bitrix/ext_www/krovatka.lc/bitrix/templates/aspro-allcorp2/lang/ru/description.php",
+		"/C/Users/User/AppData/Local/Temp/scp50482/home/bitrix/ext_www/krovatka.lc/bitrix/templates/aspro-allcorp2/description.php",
+		"/C/Users/User/AppData/Local/Temp/scp24593/home/bitrix/www/local/templates/school/template_styles.css",
+		"/C/Users/User/AppData/Local/Temp/scp02398/home/bitrix/www/test.php",
+		"/C/Users/User/AppData/Local/Temp/scp59265/var/log/php/exceptions.log",
+		"/C/Users/User/AppData/Local/Temp/scp58793/home/bitrix/www/import/import_full/log/log_update_props_regiones_extra_ver.txt",
+		"/C/Users/User/AppData/Local/Temp/scp57150/home/bitrix/www/logs_for_price_list/9_23042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp57585/home/bitrix/www/logs_for_price_list/23042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp58336/home/bitrix/www/logs_for_price_list/6_22042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp00927/home/bitrix/www/logs_for_price_list/10_22042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp00860/home/bitrix/www/logs_for_price_list/9_22042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp00736/home/bitrix/www/logs_for_price_list/5_22042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp00717/home/bitrix/www/logs_for_price_list/1_22042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp58363/home/bitrix/www/logs_for_price_list/22042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp59072/home/bitrix/www/logs_for_price_list/0_22042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp53553/home/bitrix/www/import/import_full/log/log_update_props_regiones_extra_ver.txt",
+		"/C/Users/User/AppData/Local/Temp/scp52059/home/bitrix/www/logs_for_price_list/21042020.txt",
+		"/C/Users/User/AppData/Local/Temp/scp55507/home/bitrix/www/import/import_full/log/log_update_props_regiones_extra_ver.txt",
+		"/C/Users/User/AppData/Local/Temp/scp55121/home/bitrix/www/logs_for_price_list/20042020.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lesson.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 395.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
